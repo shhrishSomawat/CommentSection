@@ -1,2 +1,8 @@
-# CommentSection
-The `CommentSection.js` React component is a dynamic interface for user comments and replies. Key features include comment posting and deletion, threaded replies, sorting options (latest, oldest, most/least replies), and user interactions like starring comments
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
